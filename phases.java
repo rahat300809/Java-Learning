@@ -1,7 +1,7 @@
 public class phases 
 {
-    public static void main(String[] args)
+    public static void main(String[]args)
     {
-        System.out.println("hi");
+        System.out.println("dont forgotten");
     }
 }
